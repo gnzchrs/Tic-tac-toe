@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    margin: 50px auto;
+  }
+  
+  .cell {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .x {
+    color: red;
+  }
+  
+  .o {
+    color: blue;
+  }
+  
+  #board {
+    background-color: lightgray;
+  }
+  
+  body {
+    background-color: white;
+    text-align: center;
+  }
+  
